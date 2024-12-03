@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.Form1.resources
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\acer\source\repos\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\acer\source\repos\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\acer\source\repos\LAB3\LAB3\obj\Debug\LAB3.pdb
